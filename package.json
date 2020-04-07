@@ -1,0 +1,24 @@
+{
+  "author": {
+    "name": "Craig Woodland"
+  },
+  "bugs": {
+    "url": "https://github.com/CraigWoodlandH8/rosnodejs-windows/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Port to prevent errors when installing rosnodejs on windows",
+  "devDependencies": {},
+  "homepage": "https://github.com/CraigWoodlandH8/rosnodejs-windows",
+  "keywords": ["ros"],
+  "license": "Apache-2.0",
+  "main": "dist/index.js",
+  "name": "rosnodejs",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CraigWoodlandH8/rosnodejs-windows.git"
+  },
+  "scripts": {},
+  "version": "3.0.2"
+}
